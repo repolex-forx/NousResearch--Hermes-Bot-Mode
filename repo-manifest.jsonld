@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/Hermes-Bot-Mode/commit/80fee22582b871b9765a65e2992b8b5a8211c9f8",
       "git:hexsha": "80fee22582b871b9765a65e2992b8b5a8211c9f8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
