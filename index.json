@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "Hermes-Bot-Mode",
+  "versions": [
+    {
+      "commit": "80fee22582b871b9765a65e2992b8b5a8211c9f8",
+      "tag": "main",
+      "parsed_at": "2026-10-09T13:04:51.404392+00:00"
+    }
+  ]
+}
